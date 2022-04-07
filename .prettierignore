@@ -1,0 +1,4 @@
+# Ignore artifcats
+dist
+build
+public
