@@ -20,4 +20,4 @@ Packages:
 
 6. Add a `.prettierignore` file to exclude build, dist and public directories
 
-7. To run this simple project run <span style="color:blue"> `npm run watch` </span> that will keep an eye on the .ts files and at the same time run `npm run dev` which is the nodemon watching the changes on the compiled javascript file
+7. To run this simple project run `npm run watch` that will keep an eye on the .ts files and at the same time run `npm run dev` which is the nodemon watching the changes on the compiled javascript file
