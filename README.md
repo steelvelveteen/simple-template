@@ -1,4 +1,4 @@
-# A front end template setup with Tyepscript and CSS (Maybe Tailwind CSS)
+# A frontend template setup with Typescript and CSS (Maybe Tailwind CSS)
 
 ## Configuring ESLint airbnb and Prettier for a non-reactjs project
 
